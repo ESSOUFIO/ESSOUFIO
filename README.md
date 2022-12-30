@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar
 - 👀 I’m interested in FrontEnd development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on a interesting web project development
+- 💞️ I’m looking to collaborate on an interesting web project development
 - 📫 Email: omar.essoufi@gmail.com
 
 <!---
