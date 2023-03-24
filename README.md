@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m FrontEnd developer
+- 👀 I’m a freelance FrontEnd developer
 - 🌱 Specialized in React.js
 - 💞️ I’m looking to collaborate on an interesting web development project 
 - 📫 Email: omar.essoufi@gmail.com
